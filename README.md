@@ -6,6 +6,8 @@ A game about a creature escaping from a horrific laboratory. Go to the ClickUp, 
 
 https://app.clickup.com/9013704917/docs/8cm4e6n-93/8cm4e6n-113
 
+On the ClickUp check out the "Final Checklist" page. That contains a list of the things needed to be done in order to make *something* playable tomorrow.
+
 ## Work Summary from Day 4:
 
 Luke: Pulled together an ultra-simplified version of the game. Whiteboxed a laborator layout and fixed collisions on stairs.
@@ -17,6 +19,8 @@ Magnus: Created a 2D image to be the laboratory's logo, and made a 2D image as a
 Caisu: Finished model for our player character creature, made another fissure chamber, imported some new tube assets.
 
 ## Interact/Shapeshift system info
+
+I dont understand how the code described below works, but this information may be **out of date**. I'm sorry to be so unhelpful and vague.
 
 In order for a object to be interactable it needs to implement the Interaction interface (class settings -> ﻿Implemented Interfaces) as well as have a tag called interact.  The interaction will return itself and a Interaction type enum located in /Content/Interaction, right now this enum only has 2 options instant and shapeshift but this can be built apon later if needed. there is also a small UI animation that will play to show that its interactable
 
