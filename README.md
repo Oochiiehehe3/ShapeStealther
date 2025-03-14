@@ -2,7 +2,9 @@
 
 Developed with Unreal Engine 5.5
 
-A game about a creature escaping from a horrific laboratory.
+A game about a creature escaping from a horrific laboratory. Go to the ClickUp, linked below:
+
+https://app.clickup.com/9013704917/docs/8cm4e6n-93/8cm4e6n-113
 
 ## Work Summary from Day 4:
 
